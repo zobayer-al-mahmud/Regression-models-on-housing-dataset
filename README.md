@@ -115,5 +115,5 @@ The models were evaluated using MAE, MSE, RMSE, and R² Score.
 
 **Zobayer Al Mahmud**
 📧 zobayeralmahmud0@gmail.com
-🔗 www.linkedin.com/in/zobayer-al-mahmud-652170352
+linkedin: 🔗 www.linkedin.com/in/zobayer-al-mahmud-652170352
 
